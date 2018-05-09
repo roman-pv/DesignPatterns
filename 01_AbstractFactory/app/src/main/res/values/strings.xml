@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AbstractFactorySample</string>
+    <string name="action">Add</string>
 </resources>
